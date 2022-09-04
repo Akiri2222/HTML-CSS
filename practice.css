@@ -11,13 +11,14 @@ header {
 
 main {
   display: flex;
-  justify-content: flex-start;
+  width: 960px;
+  margin: 50px auto;
 }
 
 .course-box {
   width: 300px;
-  padding: 10px 10px 10px 10px;
-  margin: 50px 15px 50px 15px;
+  padding: 10px;
+  margin-right: 30px;
   background-color: #eeeeee;
   position: relative;
 }
@@ -81,15 +82,15 @@ footer {
   }
 
   main {
-    width: 100%;
+    width: 90%;
     display: block;
-    margin: 50px;
-    position: center;
+    margin: 50px auto;
+
   }
 
   .course-box {
-    width: 90%;
-    margin: 20px;
+    width: 100%;
+    margin-bottom: 20px;
 
   }
 
