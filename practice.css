@@ -33,7 +33,6 @@ main {
 }
 
 .course-image1 {
-  width: 280px;
   height: 150px;
   background-image: url(img/flow01.png);
   background-position: bottom;
@@ -42,7 +41,6 @@ main {
 }
 
 .course-image2 {
-  width: 280px;
   height: 150px;
   background-image: url(img/flow02.png);
   background-position: bottom;
@@ -51,7 +49,6 @@ main {
 }
 
 .course-image3 {
-  width: 280px;
   height: 150px;
   background-image: url(img/flow03.png);
   background-position: bottom;
@@ -60,13 +57,10 @@ main {
 }
 
 .course-heading {
-  margin: 15px 0 10px 5px;
+  margin: 15px 0 5px;
 
 }
 
-.course-date {
-  margin: 0 10px 10px 10px;
-}
 
 
 footer {
